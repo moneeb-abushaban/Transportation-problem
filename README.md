@@ -1,1 +1,1 @@
-# bus-stops-and-routes
+This project provides a smart, automated solution for optimizing the daily transportation of employees to the Arçelik factory in Ankara. It uses real geographic data, clustering algorithms, and route optimization techniques to generate bus pickup points, assign employees to buses based on capacity, and produce near-optimal routes using real road networks.# bus-stops-and-routes
