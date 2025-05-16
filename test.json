@@ -1,0 +1,236 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "Ak\u015femsettin",
+          "short_name": "Ak\u015femsettin",
+          "types": [
+            "administrative_area_level_4",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Sincan",
+          "short_name": "Sincan",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Ankara",
+          "short_name": "Ankara",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "T\u00fcrkiye",
+          "short_name": "TR",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "06934",
+          "short_name": "06934",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Ak\u015femsettin, 06934 Sincan/Ankara, T\u00fcrkiye",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 39.9766951,
+            "lng": 32.594167
+          },
+          "southwest": {
+            "lat": 39.962041,
+            "lng": 32.585679
+          }
+        },
+        "location": {
+          "lat": 39.969756,
+          "lng": 32.5895875
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 39.9766951,
+            "lng": 32.594167
+          },
+          "southwest": {
+            "lat": 39.962041,
+            "lng": 32.585679
+          }
+        }
+      },
+      "partial_match": true,
+      "place_id": "ChIJ4acGbIIw0xQRCukCDP_cNG8",
+      "types": [
+        "administrative_area_level_4",
+        "political"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Nan",
+          "short_name": "Nan",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Nai Wiang",
+          "short_name": "Nai Wiang",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Mueang Nan District",
+          "short_name": "Mueang Nan District",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Nan",
+          "short_name": "\u0e08. \u0e19\u0e48\u0e32\u0e19",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Thailand",
+          "short_name": "TH",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "55000",
+          "short_name": "55000",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Nan, Nai Wiang, Mueang Nan District, Nan 55000, Thailand",
+      "geometry": {
+        "location": {
+          "lat": 18.7874192,
+          "lng": 100.7762883
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 18.7887681802915,
+            "lng": 100.7776372802915
+          },
+          "southwest": {
+            "lat": 18.7860702197085,
+            "lng": 100.7749393197085
+          }
+        }
+      },
+      "partial_match": true,
+      "place_id": "ChIJheFl6-CNJzER6I8uqQ0C26I",
+      "types": [
+        "political",
+        "sublocality",
+        "sublocality_level_1"
+      ]
+    },
+    {
+      "address_components": [
+        {
+          "long_name": "Apt",
+          "short_name": "Apt",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Vaucluse",
+          "short_name": "Vaucluse",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Provence-Alpes-C\u00f4te d'Azur",
+          "short_name": "Provence-Alpes-C\u00f4te d'Azur",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "France",
+          "short_name": "FR",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "84400",
+          "short_name": "84400",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "84400 Apt, France",
+      "geometry": {
+        "bounds": {
+          "northeast": {
+            "lat": 43.9211707,
+            "lng": 5.4563717
+          },
+          "southwest": {
+            "lat": 43.84179899999999,
+            "lng": 5.3063793
+          }
+        },
+        "location": {
+          "lat": 43.876452,
+          "lng": 5.395439
+        },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": {
+            "lat": 43.9211707,
+            "lng": 5.4563717
+          },
+          "southwest": {
+            "lat": 43.84179899999999,
+            "lng": 5.3063793
+          }
+        }
+      },
+      "partial_match": true,
+      "place_id": "ChIJ1S6Q-RAWyhIR8MaP_aUZCAQ",
+      "types": [
+        "locality",
+        "political"
+      ]
+    }
+  ],
+  "status": "OK"
+}

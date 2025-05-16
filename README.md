@@ -1,2 +1,1 @@
-# Transportation-problem
-Solving the transportation problem using Simulated Annealing 
+# bus-stops-and-routes
